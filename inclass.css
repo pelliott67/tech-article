@@ -1,0 +1,8 @@
+body{
+    font-family: "Segoe UI", sans-serif;
+    color: #993333;
+}
+
+nav > ul {
+      list-style-type: none;
+}
